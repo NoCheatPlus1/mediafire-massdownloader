@@ -9,3 +9,8 @@ python -m pip install tqdm
 python -m pip install requests
 
 python main.py
+
+After downloading from your mediafire url it will look something like this
+
+downloads/
+   whatyoudownloaded/
